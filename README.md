@@ -24,13 +24,24 @@ A aplicação realiza o cálculo e apresenta o valor estimado necessário para a
 
 ## 📱 Screenshots
 
+### Tela inicial 
+
+<img src="./app/screenshots/1.jpeg" width="200">
+
 ### Tela de entrada de dados
 
-<img src="screenshots/1.jpeg" width="300">
+<table>
+  <tr>
+    <td><img src="./app/screenshots/2.jpeg" width="200"></td>
+    <td><img src="./app/screenshots/3.jpeg" width="200"></td>
+    <td><img src="./app/screenshots/4.jpeg" width="200"></td>
+  </tr>
+</table>
+
 
 ### Tela de resultado
 
-<img src="screenshots/4.jpeg" width="300">
+<img src="./app/screenshots/5.jpeg" width="200">
 
 ---
 
