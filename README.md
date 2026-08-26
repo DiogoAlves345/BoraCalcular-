@@ -26,11 +26,11 @@ A aplicação realiza o cálculo e apresenta o valor estimado necessário para a
 
 ### Tela de entrada de dados
 
-<img src="screenshots/tela-inicial.jpeg" width="300">
+<img src="screenshots/1.jpeg" width="300">
 
 ### Tela de resultado
 
-<img src="screenshots/tela-resultado.jpeg" width="300">
+<img src="screenshots/4.jpeg" width="300">
 
 ---
 
